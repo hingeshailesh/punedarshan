@@ -49,7 +49,7 @@ header h1{
 	color:#264975;
 	margin-bottom:0;
 }
-@media(min-width:100px){
+@media(min-width:400px){
 	.main-div{
 		display:flex;
 		
