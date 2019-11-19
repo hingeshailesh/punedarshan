@@ -49,12 +49,13 @@ header h1{
 	color:#264975;
 	margin-bottom:0;
 }
-@media(max-width:768px){
-	
-		float:none;
-		
-	
-	
+@media(max-width: 768px){
+	.sub-div,
+	.leftside,
+	.rightside,
+	{
+	float:none;
+	}
 }
 .sub-div{
 	padding-left:1em;
