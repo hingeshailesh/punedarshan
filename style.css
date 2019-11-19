@@ -51,7 +51,7 @@ header h1{
 }
 @media(min-width:500px){
 	.main-div{
-		display:flex;
+		float:none;
 		
 	}
 	
