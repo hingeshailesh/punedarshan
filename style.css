@@ -54,7 +54,8 @@ header h1{
 	.leftside,
 	.rightside,
 	{
-	float:none;
+		float:none;
+		width:100%;
 	}
 }
 .sub-div{
